@@ -26,7 +26,7 @@
                 switch (key.Key)
                 {
                     case ConsoleKey.LeftArrow:
-                        if(x > 1)
+                        if(x > 0)
                         x--;
                         break;
                     case ConsoleKey.RightArrow:  
@@ -34,7 +34,7 @@
                         x++;
                         break;
                     case ConsoleKey.UpArrow:  
-                        if(y > 1)
+                        if(y > 0)
                         y--;
                         break;
                     case ConsoleKey.DownArrow:   
