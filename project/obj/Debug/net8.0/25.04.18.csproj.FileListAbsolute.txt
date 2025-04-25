@@ -1,0 +1,14 @@
+C:\Users\402-08\Desktop\project\obj\Debug\net8.0\25.04.18.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\402-08\Desktop\project\obj\Debug\net8.0\25.04.18.AssemblyInfoInputs.cache
+C:\Users\402-08\Desktop\project\obj\Debug\net8.0\25.04.18.AssemblyInfo.cs
+C:\Users\402-08\Desktop\project\obj\Debug\net8.0\25.04.18.csproj.CoreCompileInputs.cache
+C:\Users\402-08\Desktop\project\bin\Debug\net8.0\25.04.18.exe
+C:\Users\402-08\Desktop\project\bin\Debug\net8.0\25.04.18.deps.json
+C:\Users\402-08\Desktop\project\bin\Debug\net8.0\25.04.18.runtimeconfig.json
+C:\Users\402-08\Desktop\project\bin\Debug\net8.0\25.04.18.dll
+C:\Users\402-08\Desktop\project\bin\Debug\net8.0\25.04.18.pdb
+C:\Users\402-08\Desktop\project\obj\Debug\net8.0\25.04.18.dll
+C:\Users\402-08\Desktop\project\obj\Debug\net8.0\refint\25.04.18.dll
+C:\Users\402-08\Desktop\project\obj\Debug\net8.0\25.04.18.pdb
+C:\Users\402-08\Desktop\project\obj\Debug\net8.0\25.04.18.genruntimeconfig.cache
+C:\Users\402-08\Desktop\project\obj\Debug\net8.0\ref\25.04.18.dll
